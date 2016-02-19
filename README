@@ -1,0 +1,6 @@
+README
+
+compile via command: python HW3.py [input file]
+
+Type in Yes or yes, No or no when prompted. 0 to exit the loop. And if R != number of reviewers the system exits.
+
