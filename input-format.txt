@@ -1,0 +1,7 @@
+Initial Input
+The initial input is a plain text file of the following form. Fields in lines are separated by white
+space.
+Line 1. Number of reviewers R. Utility of success. Utility of failure. P(Success).
+Lines 2 through R + 1. One line per reviewer. Cost of reviewer. P(R = T|Success). P(R =
+T|Failure).
+For example the following is an input file:
